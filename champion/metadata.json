@@ -1,0 +1,8 @@
+{
+  "name": "champion",
+  "description": "An advanced document analysis workstation using Gemini Vision to extract structured data, segments, and markdown from PDF and image files. Features interactive bounding boxes, intelligent chat, and JSON extraction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
